@@ -1,1 +1,1 @@
-Desafio de projeto do bootcamp Pottencial.NETDeveloper, para criar um Sistema de Hospedagem em um hotel
+Desafio de projeto do bootcamp Pottencial.NET Developer, para construir um Sistema de Hospedagem em Hotel no C#
